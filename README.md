@@ -1,5 +1,8 @@
 # Portfolio Projects
 
+
+In this portfolio, I am thrilled to present my Machine Learning projects, each representing a journey I have cherished every step of. Along this path, I have achieved excellence in problem feature engineering, feature selection, model building, and the art of deploying solutions seamlessly using Streamlit.
+
 # 1. Quora Duplicate Question Pair Detector
 Quora is a question-answering website where users can ask and answer questions on a variety of topics. However, Quora also has to deal with duplicate questions, which can be a problem for both users and the platform as a whole. Duplicate questions can make it difficult for users to find the answers they are looking for, and they can also lead to users wasting time answering questions that have already been answered.
 The objective of Quora duplicate question pair detection project is to identify pairs of questions that are essentially asking the same thing. This can be done by using natural language processing techniques to extract features from the questions that can be used to measure their similarity. Once a pair of questions has been identified as duplicate, they can be merged together so that users only see one version of the question.
