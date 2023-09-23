@@ -10,7 +10,7 @@ This project employs high-resolution satellite imagery and advanced object detec
 ## 2. Text Summarization
 In my project, I conducted a comprehensive evaluation of abstractive text summarization using Google's Flan-T5 and PEGASUS models. The study included a comparative analysis on Kaggle News articles Dataset and Hindi news articles, showcasing the Flan-T5 model's superior performance. This project not only demonstrates my proficiency in NLP and model evaluation, but also highlights my ability to conduct in-depth research and draw meaningful conclusions from the data. It's a testament to my skills in leveraging cutting-edge technologies for practical applications.
 
-## 3. Skin Cancer Detection
+## 3. Skin Lesion Classification using CNN
 In my project, I leveraged advanced artificial neural networks to tackle the critical issue of skin lesion classification for early skin cancer detection. Using deep learning techniques, I developed a custom 17-layer convolutional neural network (CNN) from scratch and achieved an impressive 95% accuracy. Additionally, I applied transfer learning with pretrained models like VGG19, EfficientNetB7, and ResNet152V2, fine-tuning them for skin lesion classification. This approach significantly improved accuracy to 97%. My work highlights the potential of AI in improving skin cancer diagnosis, and I aim to extend this research with larger datasets and explore more sophisticated transfer learning methods.
 
 ## 4. Real-Time Object Detection
